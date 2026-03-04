@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router";
+import { Link, useNavigate } from "react-router-dom";
 import { Home, ShoppingBag, Wallet, Grid3x3, User } from "lucide-react";
 
 interface BottomNavProps {
